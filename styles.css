@@ -1,2 +1,48 @@
+footer{
+	text-align:center;
+	background-color: grey;
+	border-radius:10px;
+}
 
+aside{
+	margin-top:20px;
+}
+aside > p{
+	font-size:25px;
+	color:blue;
+}
+li{
+	text-decoration: italic;
+}
+header{
+	border-style:line;
+	border-width:1px;
+	border-style:solid;
+	border-color:yellow;
+	border-radius:25px;
+	background:red;
+ 
+}
+header > h1 {
+	color:white;
+	text-align:center;
+}
+
+.ftr-p{
+	color:white;
+	text-decoration:overline;
+	padding-top: 3px;
+	padding-bottom:3px;
+}
+#nav-actor{
+	background-color:#ECECEC;
+	padding:2px 10px;
+	border-radius:10px;
+}
+#nav-quote{
+	margin:10px;
+	background-color:#ECECEC;
+	padding:2px 10px;
+	border-radius:10px;
+}
 /* Your CSS Code here. */
